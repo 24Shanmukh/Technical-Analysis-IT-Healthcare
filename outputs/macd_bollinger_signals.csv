@@ -1,0 +1,13 @@
+Index,Signal,Times,Worked %
+Nifty IT,MACD bullish cross (buy),7,33.3
+Nifty IT,MACD bearish cross (sell),7,50.0
+Nifty IT,Close below lower band (buy),8,42.9
+Nifty IT,Close above upper band (sell),5,100.0
+Nifty Healthcare,MACD bullish cross (buy),11,60.0
+Nifty Healthcare,MACD bearish cross (sell),11,50.0
+Nifty Healthcare,Close below lower band (buy),5,50.0
+Nifty Healthcare,Close above upper band (sell),5,60.0
+Nifty Bank,MACD bullish cross (buy),8,57.1
+Nifty Bank,MACD bearish cross (sell),8,28.6
+Nifty Bank,Close below lower band (buy),6,33.3
+Nifty Bank,Close above upper band (sell),7,40.0
